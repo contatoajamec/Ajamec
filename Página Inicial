@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ajamec | Instalação e manutenção de equipamentos eletromecânicos</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #1f2937;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        nav {
+            background-color: #111827;
+            padding: 10px;
+            text-align: center;
+        }
+
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        section {
+            padding: 40px;
+            max-width: 1000px;
+            margin: auto;
+        }
+
+        .card {
+            background: white;
+            padding: 20px;
+            margin: 15px 0;
+            border-radius: 10px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+
+        .btn {
+            display: inline-block;
+            padding: 12px 20px;
+            background-color: #25D366;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 10px;
+        }
+
+        footer {
+            background-color: #1f2937;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>Ajamec Manutenção e Montagem Ltda.</h1>
+    <p>Manutenção • Instalação • Suporte Técnico</p>
+</header>
+
+<nav>
+    <a href="#sobre">Sobre</a>
+    <a href="#servicos">Serviços</a>
+    <a href="#contato">Contato</a>
+</nav>
+
+<section id="sobre">
+    <div class="card">
+        <h2>Sobre</h2>
+        <p>
+            A Ajamec Manutenção e Montagem Ltda., com sede em Coronel Fabriciano - MG, atua no segmento de instalação e manutenção mecânica industrial.
+        </p>
+        <p>
+            A empresa é comprometida com a melhoria contínua de seus processos, buscando constantemente a otimização das atividades, a redução de desperdícios e a diminuição de custos, sempre adotando soluções simples, eficientes e seguras, que fortalecem sua credibilidade no mercado.
+        </p>
+    </div>
+</section>
+
+<section id="servicos">
+    <div class="card">
+        <h2>Serviços</h2>
+
+        <ul>
+            <li>✔ Manutenção mecânica industrial</li>
+            <li>✔ Instalação de equipamentos</li>
+            <li>✔ Alinhamento e ajustes</li>
+            <li>✔ Diagnóstico de falhas</li>
+            <li>✔ Suporte técnico</li>
+        </ul>
+    </div>
+</section>
+
+<section id="contato">
+    <div class="card">
+        <h2>Contato</h2>
+
+        <p><strong>Telefone:</strong> (31) 99160-5686 ou (27) 98847-6979 </p>
+        <p><strong>Email:</strong> contatoajamec@gmail.com </p>
+
+       <a class="btn" href="https://wa.me/5527988476979" target="_blank">
+    Solicitar Orçamento no WhatsApp
+</a>
+    </div>
+</section>
+
+<footer>
+    <p>© 2026 - Ajamec Manutenção e Montagem Ltda. </p>
+</footer>
+
+</body>
+</html>
