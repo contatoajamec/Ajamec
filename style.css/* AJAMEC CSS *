@@ -598,7 +598,45 @@ transform:translateY(0);
 }
 #diferenciais,
 #segmentos{
+<section id="numeros">
 
+<div class="container">
+
+<div class="numero">
+
+<h2>20+</h2>
+
+<p>Anos de experiência</p>
+
+</div>
+
+<div class="numero">
+
+<h2>100%</h2>
+
+<p>Comprometimento</p>
+
+</div>
+
+<div class="numero">
+
+<h2>24h</h2>
+
+<p>Suporte Técnico</p>
+
+</div>
+
+<div class="numero">
+
+<h2>Alta</h2>
+
+<p>Qualidade</p>
+
+</div>
+
+</div>
+
+</section>
 padding:120px 0;
 
 }
