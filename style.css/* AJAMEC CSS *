@@ -599,6 +599,35 @@ transform:translateY(0);
 #diferenciais,
 #segmentos{
 <section id="numeros">
+#numeros{
+
+background:#ff7a00;
+
+padding:90px 0;
+
+}
+
+#numeros .container{
+
+display:grid;
+
+grid-template-columns:repeat(4,1fr);
+
+text-align:center;
+
+}
+
+.numero h2{
+
+font-size:60px;
+
+}
+
+.numero p{
+
+font-size:20px;
+
+}
 
 <div class="container">
 
