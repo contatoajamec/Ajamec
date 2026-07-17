@@ -430,6 +430,59 @@ SERVIÇOS
 .card p{
 
     color:#cfcfcf;
+/*============================
+LOGO
+=============================*/
+
+.logo{
+
+display:flex;
+
+align-items:center;
+
+gap:15px;
+
+text-decoration:none;
+
+}
+
+.logo img{
+
+width:65px;
+
+height:65px;
+
+object-fit:contain;
+
+}
+
+.logo h2{
+
+color:white;
+
+font-size:32px;
+
+font-weight:800;
+
+letter-spacing:1px;
+
+}
+
+.logo span{
+
+display:block;
+
+color:#ff7a00;
+
+font-size:14px;
+
+letter-spacing:2px;
+
+font-weight:600;
+
+margin-top:-6px;
+
+}
 
     line-height:30px;
 
