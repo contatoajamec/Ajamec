@@ -596,3 +596,51 @@ opacity:1;
 transform:translateY(0);
 
 }
+#diferenciais,
+#segmentos{
+
+padding:120px 0;
+
+}
+
+.segmentos-grid{
+
+display:grid;
+
+grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+
+gap:30px;
+
+margin-top:60px;
+
+}
+
+.segmentos-grid div{
+
+background:#202020;
+
+padding:40px;
+
+border-radius:15px;
+
+text-align:center;
+
+transition:.4s;
+
+}
+
+.segmentos-grid div:hover{
+
+transform:translateY(-10px);
+
+background:#ff7a00;
+
+}
+
+.segmentos-grid i{
+
+font-size:50px;
+
+margin-bottom:20px;
+
+}
