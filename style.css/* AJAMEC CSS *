@@ -13,7 +13,47 @@ AJAMEC SOLUÇÕES INDUSTRIAIS
 html{
     scroll-behavior:smooth;
 }
+<section id="contato">
 
+<div class="container">
+
+<div class="titulo">
+
+<span>CONTATO</span>
+
+<h2>Solicite um orçamento</h2>
+
+</div>
+
+<form>
+
+<input type="text" placeholder="Nome">
+
+<input type="text" placeholder="Empresa">
+
+<input type="tel" placeholder="Telefone">
+
+<textarea placeholder="Mensagem"></textarea>
+
+<button>
+
+Enviar
+
+</button>
+
+</form>
+
+<div class="telefone">
+
+<i class="fa-solid fa-phone"></i>
+
+(27) 98847-6979
+
+</div>
+
+</div>
+
+</section>
 body{
 
     font-family:'Poppins',sans-serif;
